@@ -8,5 +8,9 @@ public class Main {
         BinarySearch searchText = new BinarySearch(arr, "June");
         BinarySearch searchNum = new BinarySearch(arr2, 1);
 
+        System.out.println(FindMinMax.min(arr2));
+        System.out.println(FindMinMax.max(arr2));
+
+
     }
 }
